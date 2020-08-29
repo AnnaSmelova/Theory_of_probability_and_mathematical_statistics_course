@@ -1,0 +1,2 @@
+# Theory_of_probability_and_mathematical_statistics
+Курс теория вероятностей и математическая статистика
